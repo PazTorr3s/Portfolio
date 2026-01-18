@@ -1,4 +1,4 @@
-import styles from "./Footer.module.css"
+import styles from "./footer.module.css"
 import { useLanguage } from "../../i18n/languageContext"
 import {FaGithub, FaLinkedin} from "react-icons/fa"
 
